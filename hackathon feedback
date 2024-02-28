@@ -1,0 +1,16 @@
+Website to help people volunteer and find volunteers.
+ On the homepage, you can sign up for the kind of volunteering you want to do.
+ Then, on another page, you can search for volunteers in a specific subject.
+ The idea of the project is really great, helpful, and useful - especially in times of war. 
+The functionality looks good and seems to be working well.
+ Styling could be slightly cleaner.
+ Theres some text overlapping the flag background, which makes it harder to read.
+ Also, the general positioning of elements can be enhanced by giving each form a bit more space.
+ Maybe also consider adding a nice header - not just a paragraph right away with a lot of text.
+ When you submit a form, it would be good to show the user a message to confirm whether their action was successful or unsuccessful.
+ Also, on the "Go to Data" page, perhaps a better name for it could be "Search for Volunteers". 
+When searching for volunteers and not getting any results, maybe you can show a message like "Sorry, there are no volunteers available at this time in this area for this subject". 
+Now, onto the code. First of all, I appreciate the structure of the server.
+ Routes, Controllers, and Models are well-done. 
+Serving your frontend from the public folder is also great.
+Fantastic job!
